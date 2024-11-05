@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uyatoaco.github.io/IFZ/sitemap_index.txt
+Sitemap: https://uyatoaco.github.io/JMy/sitemap_index.txt
+Sitemap: https://uyatoaco.github.io/fkG/sitemap_index.txt
+Sitemap: https://uyatoaco.github.io/rYU/sitemap_index.txt
